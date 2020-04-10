@@ -1494,8 +1494,21 @@ def binary_search(items, start, end, search_item):
     
 ### Sliding Window
 
+- https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
+
 ### Two Pointers
 
 ### Level Order Tree Traversal
 
 ### Two Heaps
+
+### Fast and Slow Pointers
+
+- https://leetcode.com/problems/linked-list-cycle-ii/
+
+### Merge Intervals
+
+- https://leetcode.com/problems/interval-list-intersections/
+- https://leetcode.com/problems/remove-covered-intervals/
+- https://leetcode.com/problems/non-overlapping-intervals/
+
