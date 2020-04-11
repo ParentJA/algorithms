@@ -1512,3 +1512,7 @@ def binary_search(items, start, end, search_item):
 - https://leetcode.com/problems/remove-covered-intervals/
 - https://leetcode.com/problems/non-overlapping-intervals/
 
+### In-place Reversal of a Linked List
+
+- https://leetcode.com/problems/rotate-list/
+
