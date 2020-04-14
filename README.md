@@ -1498,10 +1498,6 @@ def binary_search(items, start, end, search_item):
 
 ### Two Pointers
 
-### Level Order Tree Traversal
-
-### Two Heaps
-
 ### Fast and Slow Pointers
 
 - https://leetcode.com/problems/linked-list-cycle-ii/
@@ -1512,7 +1508,27 @@ def binary_search(items, start, end, search_item):
 - https://leetcode.com/problems/remove-covered-intervals/
 - https://leetcode.com/problems/non-overlapping-intervals/
 
+### Cyclic Sort
+
 ### In-place Reversal of a Linked List
 
 - https://leetcode.com/problems/rotate-list/
+
+### Tree Breadth First Search
+
+### Tree Depth First Search
+
+### Two Heaps
+
+### Subsets
+
+### Modified Binary Search
+
+### Top 'K' Elements
+
+### K-way Merge
+
+### Topological Sort
+
+
 
