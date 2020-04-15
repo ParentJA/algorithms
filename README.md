@@ -1520,15 +1520,30 @@ def binary_search(items, start, end, search_item):
 
 ### Two Heaps
 
+- https://leetcode.com/problems/find-median-from-data-stream/
+- https://leetcode.com/problems/sliding-window-maximum/
+
 ### Subsets
+
+- https://leetcode.com/problems/subsets/
+- https://leetcode.com/problems/permutations/
 
 ### Modified Binary Search
 
 ### Top 'K' Elements
 
+- https://leetcode.com/problems/k-closest-points-to-origin/
+- https://leetcode.com/problems/top-k-frequent-elements/
+- https://leetcode.com/problems/sort-characters-by-frequency/
+- https://leetcode.com/problems/kth-largest-element-in-an-array/
+- https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+
 ### K-way Merge
+
+- https://leetcode.com/problems/merge-k-sorted-lists/
 
 ### Topological Sort
 
-
+- https://leetcode.com/problems/course-schedule/
+- https://leetcode.com/problems/course-schedule-ii/
 
