@@ -972,6 +972,37 @@ def longest_common_subsequence_solution(s1, s2, matrix):
 
 # Graph
 
+## Disjoint Set (Union-Find)
+
+```python
+class DSU:
+    def __init__(self, num_vertices):
+        self.parents = list()
+        self.ranks = list()
+        for i in range(num_vertices):
+            self.parents[i] = i
+            self.ranks[i] = 0
+            
+    def find(self, vertex):
+        parent = self.parents[vertex]
+        if parent != vertex:
+            self.parents[vertex] = self.find(parent)
+        return self.parents[vertex]
+        
+    def union(self, vertex1, vertex2):
+        parent1 = self.find(vertex1)
+        parent2 = self.find(vertex2)
+        if parent1 == parent2:
+            return False
+        if self.ranks[parent1] > self.ranks[parent2]:
+            self.parents[parent2] = parent1
+            self.ranks[parent1] += 1
+        else:
+            self.parents[parent1] = parent2
+            self.ranks[parent2] += 1
+        return True
+```
+
 ## Searches
 
 ```python
