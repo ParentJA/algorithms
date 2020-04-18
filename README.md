@@ -977,11 +977,10 @@ def longest_common_subsequence_solution(s1, s2, matrix):
 ```python
 class DSU:
     def __init__(self, num_vertices):
+        self.ranks = [0] * num_vertices
         self.parents = list()
-        self.ranks = list()
         for i in range(num_vertices):
-            self.parents[i] = i
-            self.ranks[i] = 0
+            self.parents.append(i)
             
     def find(self, vertex):
         parent = self.parents[vertex]
