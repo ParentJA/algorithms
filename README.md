@@ -974,6 +974,14 @@ def longest_common_subsequence_solution(s1, s2, matrix):
 
 ## Disjoint Set (Union-Find)
 
+Uses:
+- Works on undirected graph
+- Find connected components
+- Detect cycle
+
+Time complexity: O(N log N)
+Space complexity: O(N)
+
 ```python
 class DSU:
     def __init__(self, num_vertices):
