@@ -1548,9 +1548,17 @@ def binary_search(items, start, end, search_item):
 
 ### Two Pointers
 
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- https://leetcode.com/problems/3sum/
+- https://leetcode.com/problems/3sum-closest/
+- https://leetcode.com/problems/squares-of-a-sorted-array/
+
 ### Fast and Slow Pointers
 
 - https://leetcode.com/problems/linked-list-cycle-ii/
+- https://leetcode.com/problems/middle-of-the-linked-list/
+- https://leetcode.com/problems/palindrome-linked-list/
 
 ### Merge Intervals
 
@@ -1560,9 +1568,14 @@ def binary_search(items, start, end, search_item):
 
 ### Cyclic Sort
 
+- https://leetcode.com/problems/missing-number/
+- https://leetcode.com/problems/first-missing-positive/
+
 ### In-place Reversal of a Linked List
 
 - https://leetcode.com/problems/rotate-list/
+- https://leetcode.com/problems/reverse-linked-list-ii/
+- https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 ### Tree Breadth First Search
 
