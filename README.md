@@ -7,6 +7,18 @@
 - Design top 10 songs played by a user in Spotify
 - Design phone bill calculator
 - Design text editor typeahead suggestions
+- Design Amazon comment filtering system
+- Design a chat service
+- Design a system that can detect bots or crawlers crawling the website
+- Design pub-sub architecture
+- Design a video streaming service to support playback video from different devices
+- Design the high level design/app for building a parking system
+- Design Slack
+- Design Amazon Books "Look Inside"
+- Design recommendation system for Amazon Prime Video
+- Design a task scheduler
+- Design system for health score app
+- Design a system for a delivery pick up system
 
 # Behavioral
 
