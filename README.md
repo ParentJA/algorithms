@@ -546,6 +546,7 @@ See [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-co
 See [Binary Tree Level Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  
 See [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  
 See [Maximum Level Sum](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)  
+See [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
 ```python
 def levelorder(root):
