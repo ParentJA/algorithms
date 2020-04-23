@@ -1567,6 +1567,7 @@ def binary_search(items, start, end, search_item):
 - https://leetcode.com/problems/interval-list-intersections/
 - https://leetcode.com/problems/remove-covered-intervals/
 - https://leetcode.com/problems/non-overlapping-intervals/
+- https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 
 ### Cyclic Sort
 
